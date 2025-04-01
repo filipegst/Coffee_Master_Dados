@@ -4,7 +4,7 @@
         "id": 1,
         "titulo": "Historia do Café",
         "descricao": "Descubra a lenda do pastor Kaldir e conheça as curiosas maneiras como o café era consumido no passado.",
-        "imagem": "/conhecimentos/Conhecimentosimg/historia do cafe.webp",
+        "imagem": "/Conhecimentosimg/historia do cafe.webp",
         "link":"./conhecimentos/historia_do_cafe.html"
       },
       {
@@ -18,7 +18,7 @@
         "id": 3,
         "titulo": "Colheita do café",
         "descricao": "Entenda o processo de colheita do café, desde a escolha do ponto ideal até a colheita manual e mecanizada.",
-        "imagem": "/conhecimentos/Conhecimentosimg/colheita.jpg" ,
+        "imagem": "/Conhecimentosimg/colheita.jpg" ,
         "link":"./conhecimentos/colheita.html" 
       },
       {
@@ -61,8 +61,8 @@
           {
               "nome":"Brasil Blend",
               "notas":"Suave acidez com notas de castanhas e chocolate ao leite.",
-              "imagem":"./cafes/cafesimg/brasil_blend.png",
-              "torra":"./cafes/cafesimg/torra_pike.png",
+              "imagem":"/cafesimg/brasil_blend.png",
+              "torra":"/cafesimg/torra_pike.png",
               "link":"./cafes/brasil.html"
           },
           {
