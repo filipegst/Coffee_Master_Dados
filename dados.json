@@ -39,7 +39,7 @@
         "id": 6,
         "titulo": "Classificação",
         "descricao": "Aprenda sobre os diferentes tipos de café e suas classificações.",
-        "imagem": "https://raw.githubusercontent.com/filipegst/Coffee_Master/refs/heads/master/conhecimentos/ConhecimentosImg/classificacao%3.jpg",
+        "imagem": "https://raw.githubusercontent.com/filipegst/Coffee_Master/refs/heads/master/conhecimentos/ConhecimentosImg/classificacao%203.jpg",
         "link":"./conhecimentos/classificaçao.html"
       },
       {
@@ -76,7 +76,7 @@
           {
             "nome":"Ethiopia",
             "notas":"Notas de chocolate meio amargo, pimenta e citrico adocicado",
-            "imagem":".https://raw.githubusercontent.com/filipegst/Coffee_Master/refs/heads/master/cafes/cafesImg/ethiopia_embalagem.png",
+            "imagem":"https://raw.githubusercontent.com/filipegst/Coffee_Master/refs/heads/master/cafes/cafesImg/ethiopia_embalagem.png",
             "torra":"https://raw.githubusercontent.com/filipegst/Coffee_Master/refs/heads/master/cafes/cafesImg/torra_pike.png",
             "link":"./cafes/ethiopia.html"
         },
