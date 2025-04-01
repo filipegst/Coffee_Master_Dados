@@ -4,7 +4,7 @@
         "id": 1,
         "titulo": "Historia do Café",
         "descricao": "Descubra a lenda do pastor Kaldir e conheça as curiosas maneiras como o café era consumido no passado.",
-        "imagem": "/Conhecimentosimg/historia do cafe.webp",
+        "imagem": "/ConhecimentosImg/historia_do_cafe.webp",
         "link":"./conhecimentos/historia_do_cafe.html"
       },
       {
@@ -18,7 +18,7 @@
         "id": 3,
         "titulo": "Colheita do café",
         "descricao": "Entenda o processo de colheita do café, desde a escolha do ponto ideal até a colheita manual e mecanizada.",
-        "imagem": "/Conhecimentosimg/colheita.jpg" ,
+       "imagem": "/conhecimentosImg/pos_colheita.png",
         "link":"./conhecimentos/colheita.html" 
       },
       {
